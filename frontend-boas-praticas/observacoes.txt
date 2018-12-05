@@ -1,0 +1,27 @@
+1 - deve sevitar escrever em caixa alta para facilitar os leitores de tela
+para deficiente visual.
+Para que o texto fique em caixa alta, deve usar a propriedade text-transform: uppercase do css
+
+2 - Quando tem um texto e se deseja que o elemento pai se expanda de acordo com o tamanho desse texto,
+o indicado é utilizar padding no elemento pai.
+
+3 - formas de aplicar dimensões.
+Quando estamos utilizando alguma propriedade na qual nos permite dimensionar regiões específicas,
+podemos fazer isso de diferentes formas como no exemplo
+
+EX. Aplicando padding do lado direito e esquerdo de um elemento.
+    1 - forma especificando o lado
+        padding-left: 30px;
+        paddin-right: 30px
+    
+    2 - forma abreviada
+        a - padding: 0 30px 0 30px   equivale padding: top right bottom left
+        b - padding: 0 30px          equivale padding: top/bottom right/left
+        c - padding: 0 30px 0        equivale padding top  right/left bottom 
+        d - padding: 30px            o valor de 30px vai ser definido para todos os lados.              
+
+4 - quando se tem um elemento display: block e um display: line em baixo ele,
+o elemento display:line não consegue ser empurrado para baixo;
+
+
+
