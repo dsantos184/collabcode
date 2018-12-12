@@ -1,0 +1,15 @@
+figure
+{
+    box-sizing: border-box;
+    width: 348px;
+    height: 348px;
+    border-radius: 50%;
+    border: 15px solid #754ef9;
+}
+
+img
+{
+    width: 352px;
+    height: 352px;
+    position:absolute;
+}
