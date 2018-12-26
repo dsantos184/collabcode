@@ -1,0 +1,12 @@
+.main-btn
+{
+    display: inline-block;
+    background-color: #754ef9;
+    color: #ffffff;
+    padding: 14px 45px;
+    border-radius: 100px;
+    margin-right: 0;
+    border: 1xp solid #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
