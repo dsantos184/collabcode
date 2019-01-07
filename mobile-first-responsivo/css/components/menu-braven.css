@@ -1,0 +1,9 @@
+.menu-braven
+{
+    width: 22px;
+    height: 40px;
+    background-image: url('/img/menu.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
