@@ -1,0 +1,17 @@
+.container-navigation
+{
+    font-size: 14px;
+}
+
+.container-navigation .action
+{
+    color: #333;
+    text-decoration: none;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.container-navigation .action.-active
+{
+    text-decoration: underline;
+}
